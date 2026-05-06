@@ -23,7 +23,7 @@
 - Atlas is Agent 001, reachable via Telegram or inter-agent messaging
 
 ## GTV Drive
-- Shared drive link: (to be configured after AJ shares access)
+- Shared drive link: https://drive.google.com/drive/folders/0AOK5Uz9ujXowUk9PVA
 - Key folders: LPA, PPM, Deck, LP Data Room, Deal Pipeline
 
 ## TTS
